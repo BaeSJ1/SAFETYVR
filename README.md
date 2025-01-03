@@ -1,6 +1,5 @@
 <a>
-<img src="![image](https://github.com/user-attachments/assets/19ced970-b1c2-444b-9aa7-6ea4b535ab98)
-" alt="배너" width="100%"/>
+<img src="![image](https://github.com/user-attachments/assets/c6ada78e-6af1-49f9-8037-88145fa7681a)" alt="배너" width="100%"/>
 </a>
 
 <br/>
