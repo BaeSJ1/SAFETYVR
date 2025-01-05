@@ -41,11 +41,19 @@
 ## 4.1 시스템 구성
 ### 4.1.1 하드웨어 구성(구성도 포함)
 <img src = "https://github.com/user-attachments/assets/53ed8d58-eb84-41a3-abd9-4aec7a1d078a" width = "100%" />
+
+<br/>
+<br/>
+
 ### 4.1.2 소프트웨어 구성(구성도 포함)
 <img src = "https://github.com/user-attachments/assets/ac3e0606-9576-48c8-80e3-ca9b9ba69f45" width = "100%" />
 
+<br/>
+<br/>
+
 ## 4.2 기능
 <img src = "https://github.com/user-attachments/assets/0ad519e3-f359-4f4f-a34b-38581a5803bd" width = "100%" />
+
 - **실제 공장 연계 DIGITAL TWIN**:
   - Matterport를 활용하여 장소 캡처(공동구조실험실, 기계공작실)
 
@@ -69,11 +77,14 @@
 |Blender   |  <img src="https://github.com/user-attachments/assets/815df604-d667-4e07-9492-b66e301e56bc" alt="Blender" width="100"> |
 
 * 코드관리
-| | |
+
+|  |  |
 |-----------------|-----------------|
 | Plastic SCM    |<img src="https://github.com/user-attachments/assets/99683ce3-56b2-486f-979b-fc3eeac2bfbf" alt="Unity" width="100">| 
+
 <br/>
 <br/>
+
 # 6. 제작일정
 
 | 개발단계 | 제작기간 | 제작내용 |
@@ -87,7 +98,7 @@
 <br/>
 
 # 7. 향후 계획과 기대효과
-|
+
 
 <br/>
 <br/>
