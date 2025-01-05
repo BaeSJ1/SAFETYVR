@@ -1,4 +1,3 @@
-# 👷🏿제조업 중대 재해 예방을 위한 실감 VR 교육 시스템 : SAFETY VR
 <img src = "https://github.com/user-attachments/assets/639edbff-093b-4112-85a2-5b1b3f35998b" width = "100%"/>
 
 <br/>
