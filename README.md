@@ -68,15 +68,16 @@
 | Virtuix Omni    |  <img src="https://github.com/user-attachments/assets/fa752b6b-4b30-4412-935a-0565938be069" alt="Virtuix Omni" width="100"> | 
 |Blender   |  <img src="https://github.com/user-attachments/assets/815df604-d667-4e07-9492-b66e301e56bc" alt="Blender" width="100"> |
 
-* 코드관리 
+* 코드관리
+| | |
 |-----------------|-----------------|
 | Plastic SCM    |<img src="https://github.com/user-attachments/assets/99683ce3-56b2-486f-979b-fc3eeac2bfbf" alt="Unity" width="100">| 
 <br/>
 <br/>
 # 6. 제작일정
-|  |  |  |
+
+| 개발단계 | 제작기간 | 제작내용 |
 |-----------------|-----------------|-----------------|
-| 개발단계    |  제작기간 | 제작내용  |
 | 요구사항 분석    |  2022. 09. 19 ~ 2022. 10. 31| 문제 분석 및 기술동향 조사   |
 | 시스템 명세   |  2022. 11. 01 ~ 2022. 11. 30   | 시스템의 기능 분석  |
 | 설계    |  2022. 12. 01 ~ 2023. 02. 10  | 시스템 구조 및 프로그램 설계    |
@@ -86,9 +87,7 @@
 <br/>
 
 # 7. 향후 계획과 기대효과
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| Firebase    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Firebase" width="100">    | 10.12.5    |
+|
 
 <br/>
 <br/>
